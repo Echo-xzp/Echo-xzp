@@ -1,4 +1,4 @@
-- 
+- A NOOB who is studing promgram now
 - ECHO me by 2838985911@qq.com
 
 <!---
