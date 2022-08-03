@@ -1,6 +1,6 @@
 - A NOOB who is studing promgram now
 - ECHO me by 2838985911@qq.com
-- *![echoe me click here](www.echoes.work)*
+- *[echoe me click here](http://www.echoes.work)*
 
 <!---
 Echo-xzp/Echo-xzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
